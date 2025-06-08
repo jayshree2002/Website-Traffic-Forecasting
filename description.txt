@@ -1,0 +1,8 @@
+Row: Index of the data point
+Day: Day of the month
+Day.Of.Week: Day of the week
+Date: Full date of the traffic data
+Page.Loads: Number of page loads (target variable)
+Unique.Visits: Number of unique visitors
+First.Time.Visits: Number of first-time visitors
+Returning.Visits: Number of returning visitors
